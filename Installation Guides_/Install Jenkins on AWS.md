@@ -1,10 +1,12 @@
 # Install Jenkins on AWS
+### _Image is not required at the start of docs. If you're tend to include it. use relevant image such as Jenkins and AWS._
 
  ![github_jenkins width-15](https://github.com/adityap7/Markdown-Repo_/assets/6860928/8c3b165a-ca2c-4af7-9eaa-051ebf3dfcee)
 
 ## About this guide
-Jenkins – an open source automation server which permits developers round the world to reliably build, check, and installation their software program
+Jenkins – an open source automation server which permits developers around the world to reliably build, check, and installation their software program
 
+### _Not required looks pretty unprofessional_
 ## Smooth installation - My way :)
 "the whole lot is accessible you just need to appearance closely" - Aditya S. Patil
 
